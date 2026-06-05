@@ -119,7 +119,7 @@ p, span, li{
     color:  rgb(255, 98, 0);
      border-radius: 20px;
     cursor: pointer;
-        width: 200px;
+        max-width: 150px;
 }
 .left1, .left2, .left3, .left4, .left5, .left6{
     transition: transform 0.3s ease;
